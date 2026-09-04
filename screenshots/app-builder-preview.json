@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rastro",
+      "hasCanvas": false,
+      "bodyTextLen": 8113,
+      "bodyTextHash": "5f561597763d41fe43d49cfe9df0ea6b0be09406950dded44c95860107159025",
+      "bodyTextPrefix": "Saltar para o conteúdo Rastro Problema Arquitetura Fluxo Consens",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rastro",
+      "hasCanvas": false,
+      "bodyTextLen": 8037,
+      "bodyTextHash": "4bd80fef93793ed04c7196ac059e0c1a9da38f3b39529aa047810499621af382",
+      "bodyTextPrefix": "Saltar para o conteúdo Rastro FOODS 2025 · VOL. 14 · 1405 O rast",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
